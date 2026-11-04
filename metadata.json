@@ -1,0 +1,6 @@
+{
+  "name": "LifeSync",
+  "description": "Personal life management app to organize tasks, schedule, payments, trips, family, and notes with 100% local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
